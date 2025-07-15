@@ -35,6 +35,11 @@ body{
 }
 .nav-links li a:hover{
     color: #87e70a;
+    .navbar a:hover,
+.navbar a.active {
+    color: #87e70a;
+    border-bottom: #87e70a;
+}
 }
 .menu-toggle {
     display: none;
