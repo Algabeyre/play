@@ -33,13 +33,10 @@ body{
     font-weight: 500;
     transition: color 0.3s;
 }
-.nav-links li a:hover{
+.nav-links li a:hover,
+.nav-links li a.active{
     color: #87e70a;
-    .navbar a:hover,
-.navlinks li a.active {
-    color: #87e70a;
-    border-bottom: #87e70a;
-}
+    border-bottom:#87e70a;
 }
 .menu-toggle {
     display: none;
