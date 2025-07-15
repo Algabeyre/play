@@ -91,7 +91,7 @@ section{
 }
 .btn:hover {
     transform:  scale(1.05);
-    background: #ffcc00;
+    background: #ff00bf;
     color: var(--main-color);
     border: 2px solid var(--main-color);
 }
