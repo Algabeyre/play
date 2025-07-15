@@ -4,6 +4,8 @@
     box-sizing: border-box;
     font-family: sans-serif;
 }
+hrml{
+    font-sixe: 62%;
 body{
     background: black;
     color: white;
@@ -113,6 +115,6 @@ section{
         padding: 15px 0;
     }
     .btn{
-        padding: 0.3rem 0.7rem
+        padding: 0.3rem 0.7rem;
     }
 }
